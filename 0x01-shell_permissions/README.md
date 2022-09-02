@@ -33,3 +33,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
  2 files changed, 27 insertions(+)
  create mode 100644 0x01-shell_permissions/12-directory_permissions
 a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+[master dd7d59d] a script that changes the owner and the group owner of _hello to vincent and staff respectively
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x01-shell_permissions/101-symbolic_link_permissions
